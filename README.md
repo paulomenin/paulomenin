@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there👋, I'm Paulo Menin
+
+A passionate software engineer and lifelong learner from  Brazil helping teams to grow high-quality software solutions.
+
+I have more than a decade of professional experience working in tech companies, which has enabled me to gain knowledge in different fields and programming languages.
+
+☕ I brew coffee
+
+💻 To turn it into code
+
+📫 How to reach me: [paulomenin.dev](https://paulomenin.dev)
 
 <!--
 **paulomenin/paulomenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
