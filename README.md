@@ -4,10 +4,6 @@ A passionate software engineer and lifelong learner from  Brazil helping teams t
 
 I have more than a decade of professional experience working in tech companies, which has enabled me to gain knowledge in different fields and programming languages.
 
-☕ I brew coffee
-
-💻 To turn it into code
-
 📫 How to reach me: [paulomenin.dev](https://paulomenin.dev)
 
 <!--
@@ -23,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+☕ I brew coffee
+
+💻 To turn it into code
 -->
